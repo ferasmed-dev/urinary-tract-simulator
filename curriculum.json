@@ -1,0 +1,14 @@
+{
+  "topic": "Urinary tract obstruction and stones, urinary tract infection and urological emergencies",
+  "slug": "urinary-tract-simulator",
+  "system": "Genitourinary",
+  "specialty": ["Urology", "Nephrology", "Infectious diseases", "Emergency medicine"],
+  "eciModule": ["III. Formación clínica humana", "IV. Procedimientos diagnósticos y terapéuticos"],
+  "typicalSubjects": ["Urología", "Nefrología", "Patología médica y quirúrgica del aparato urinario", "Enfermedades infecciosas", "Urgencias", "Microbiología", "Radiología"],
+  "mirRelevant": true,
+  "entities": 26,
+  "presets": 46,
+  "keywords_es": ["cólico nefrítico", "litiasis", "hidronefrosis", "anuria obstructiva", "retención urinaria", "infección urinaria", "cistitis", "pielonefritis", "bacteriuria asintomática", "prostatitis", "epididimitis", "uretritis", "hematuria", "gangrena de Fournier", "sepsis urológica", "parafimosis", "priapismo", "torsión testicular", "traumatismo renal", "traumatismo uretral"],
+  "keywords_en": ["renal colic", "kidney stones", "hydronephrosis", "obstructive anuria", "urinary retention", "urinary tract infection", "cystitis", "pyelonephritis", "asymptomatic bacteriuria", "prostatitis", "epididymitis", "urethritis", "haematuria", "Fournier's gangrene", "urosepsis", "paraphimosis", "priapism", "testicular torsion", "renal trauma", "urethral trauma"],
+  "languages": ["es", "en"]
+}

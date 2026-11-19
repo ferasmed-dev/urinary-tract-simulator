@@ -1,0 +1,12 @@
+{
+  "name": "urinary-tract-simulator",
+  "version": "1.0.0",
+  "description": "Interactive simulator of urinary obstruction and stones, urinary tract infection and urological emergencies (ES/EN). Teaching tool.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
